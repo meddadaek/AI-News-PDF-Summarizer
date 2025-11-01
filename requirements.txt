@@ -1,0 +1,17 @@
+This installs:
+
+FastAPI
+
+Streamlit
+
+newspaper4k
+
+textblob
+
+PyPDF2
+
+nltk
+
+requests
+
+uvicorn (for running FastAPI)
