@@ -21,3 +21,6 @@ A simple web app built with **FastAPI** + **Streamlit** that can:
    ```bash
    git clone https://github.com/meddadaek/AI-News-PDF-Summarizer.git
    cd AI-News-PDF-Summarizer
+
+   [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://AI-News-PDF-Summarizer.streamlit.app)
+
